@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Grab your Coffee</string>
+    <string name="addChocolate">Agregue chocolate?</string>
+    <string name="addCream">Agregue la crema batida?</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="cream">Crema Batida</string>
+    <string name="name_hint">Nombre</string>
+    <string name="order">Orden</string>
+    <string name="order_summary_name">Nombre: <xliff:g example="Ace" id="name">%s</xliff:g></string>
+    <string name="quantity">Cantidad</string>
+    <string name="subject">Orden de café para</string>
+    <string name="thankyou">Gracias!</string>
+    <string name="toppings">Coberturas</string>
+    <string name="total">Total</string>
+</resources>
